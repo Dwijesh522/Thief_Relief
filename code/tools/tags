@@ -1,0 +1,4 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+clustered_image	/home/dwijesh/Documents/.thief_relief/Thief_Relief/code/tools/main.py	/^    clustered_image = kc.kmeans_clustering(image, 50)$/;"	v	language:Python
+image	/home/dwijesh/Documents/.thief_relief/Thief_Relief/code/tools/main.py	/^    image = ri.readImage_gray()$/;"	v	language:Python
+transformed_image	/home/dwijesh/Documents/.thief_relief/Thief_Relief/code/tools/main.py	/^    transformed_image = he.histogramEqualization_CLAHE(image)$/;"	v	language:Python
